@@ -7,5 +7,5 @@ int main() {
     last = 'J';
     cout << first << middle << last << endl;
     return 0;
-     //checking to make sure everything pushes 
+     //checking to make sure everything pushes or something
 }
